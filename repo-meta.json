@@ -1,0 +1,11 @@
+{
+  "description": "8 research skills for Claude Code, Codex, Cursor, and meshcode — deep research, literature review, customer research, survey design, patent landscape analysis, competitor research, dossiers, and research briefs. Knowledge-first Agent Skills: trust hierarchies, sample-size math, IPC classification analysis, and fixed output contracts.",
+  "topics": [
+    "agent-skills",
+    "claude-skills",
+    "deep-research",
+    "literature-review",
+    "market-research",
+    "survey-design"
+  ]
+}
